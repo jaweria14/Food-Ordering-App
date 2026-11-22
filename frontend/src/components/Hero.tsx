@@ -1,4 +1,4 @@
-import React from "react";
+
 import HeroVideo from "../assets/307837.mp4";
 
 export default function Hero() {

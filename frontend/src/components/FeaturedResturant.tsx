@@ -1,5 +1,5 @@
 
-import React from "react";
+
 import Text from "./Text";
 import ResturauntCards from "./ResturauntCards";
 import { useGetAllRestaurants } from "@/api/RestaurantApi";

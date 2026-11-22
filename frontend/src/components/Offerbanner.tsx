@@ -1,5 +1,5 @@
 
-import React from "react";
+
 import banner from "../assets/wide_clean_graphic_promotional_banner_background.png";
 
 export default function Offerbanner() {
